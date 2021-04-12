@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="StartButton">START</string>
+
+    <string-array name="question1">
+        <item name="title">Pretty Simple One</item>
+        <item name="question">what is 1+1?</item>
+        <item name="ans1">2</item>
+        <item name="ans2">window</item>
+        <item name="ans3">49</item>
+        <item name="Correctbutton">btnAns1</item>
+    </string-array>
+</resources>
